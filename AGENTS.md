@@ -8,7 +8,7 @@ The **AI SDK** by Vercel is a TypeScript/JavaScript SDK for building AI-powered 
 
 - **Repository**: https://github.com/vercel/ai
 - **Documentation**: https://ai-sdk.dev/docs
-- **License**: Apache-2.0
+- **License**: Apache- 2.0
 
 ## Repository Structure
 
